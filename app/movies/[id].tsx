@@ -9,6 +9,6 @@ const MovieDetails = () => {
   )
 }
 
-export default [id]
+export default MovieDetails
 
 const styles = StyleSheet.create({})
