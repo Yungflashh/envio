@@ -4,11 +4,11 @@ import React from 'react'
 const MovieDetails = () => {
   return (
     <View>
-      <Text>MovieDetails</Text>
+      <Text>[id]</Text>
     </View>
   )
 }
 
-export default MovieDetails
+export default [id]
 
 const styles = StyleSheet.create({})
