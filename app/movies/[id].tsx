@@ -5,6 +5,8 @@ const MovieDetails = () => {
   return (
     <View>
       <Text>MovieDetails</Text>
+      <Text>MovieDetails</Text>
+      <Text>MovieDetails</Text>
     </View>
   )
 }
