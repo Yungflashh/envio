@@ -6,6 +6,8 @@ const MovieDetails = () => {
     <View>
       <Text>MovieDetails</Text>
       <Text>MovieDetails</Text>
+      <Text>MovieDetails</Text>
+      <Text>MovieDetails</Text>
     </View>
   )
 }
