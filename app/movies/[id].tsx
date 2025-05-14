@@ -7,7 +7,6 @@ const MovieDetails = () => {
       <Text>MovieDetails</Text>
       <Text>MovieDetails</Text>
       <Text>MovieDetails</Text>
-      <Text>MovieDetails</Text>
     </View>
   )
 }
