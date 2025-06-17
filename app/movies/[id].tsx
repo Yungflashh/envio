@@ -9,6 +9,8 @@ const MovieDetails = () => {
   )
 }
 
+
+
 export default MovieDetails
 
 const styles = StyleSheet.create({})
