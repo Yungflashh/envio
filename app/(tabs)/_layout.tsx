@@ -3,6 +3,8 @@ import { AntDesign } from '@expo/vector-icons';
 import React from 'react';
 
 const _layout = () => {
+
+  
   return (
     <Tabs
       screenOptions={({ route }) => ({
