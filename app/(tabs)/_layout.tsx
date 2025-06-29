@@ -5,7 +5,6 @@ import React from 'react';
 const _layout = () => {
 
   
-  
   return (
     <Tabs
       screenOptions={({ route }) => ({
